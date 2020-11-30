@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="DELETE">
+        <configuration_template/>
+        <connection_type>sys_connection</connection_type>
+        <id>x_551155_test_chak.Chak_POC</id>
+        <multiple_connections>false</multiple_connections>
+        <name>Chak_POC</name>
+        <parent/>
+        <retry_policy display_value="Default SFTP Retry Policy">e385484773100010e3a71afe2ff6a709</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-30 19:49:11</sys_created_on>
+        <sys_id>88e4332107b020103957fe4f7c1ed028</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_551155_test_chak.Chak_POC</sys_name>
+        <sys_package display_value="Test_Chak" source="x_551155_test_chak">7b1c5d37072020103957fe4f7c1ed0cf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test_Chak">7b1c5d37072020103957fe4f7c1ed0cf</sys_scope>
+        <sys_update_name>sys_alias_88e4332107b020103957fe4f7c1ed028</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-30 19:49:11</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test_Chak">7b1c5d37072020103957fe4f7c1ed0cf</application>
+        <file_path/>
+        <instance_id>87e4198ddb4d73440ae3ac44d49619e7</instance_id>
+        <instance_name>dev83270</instance_name>
+        <name>sys_alias_88e4332107b020103957fe4f7c1ed028</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias"><sys_alias action="INSERT_OR_UPDATE"><configuration_template/><connection_type>sys_connection</connection_type><id>x_551155_test_chak.Chak_POC</id><multiple_connections>false</multiple_connections><name>Chak_POC</name><parent/><retry_policy display_value="Default SFTP Retry Policy">e385484773100010e3a71afe2ff6a709</retry_policy><sys_class_name>sys_alias</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-11-30 19:49:11</sys_created_on><sys_id>88e4332107b020103957fe4f7c1ed028</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_551155_test_chak.Chak_POC</sys_name><sys_package display_value="Test_Chak" source="x_551155_test_chak">7b1c5d37072020103957fe4f7c1ed0cf</sys_package><sys_policy/><sys_scope display_value="Test_Chak">7b1c5d37072020103957fe4f7c1ed0cf</sys_scope><sys_update_name>sys_alias_88e4332107b020103957fe4f7c1ed028</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-11-30 19:49:11</sys_updated_on><type>connection</type></sys_alias></record_update>]]></payload>
+        <payload_hash>738006528</payload_hash>
+        <record_name>x_551155_test_chak.Chak_POC</record_name>
+        <reverted_from/>
+        <source>fb1c5d37072020103957fe4f7c1ed0d1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-30 19:49:11</sys_created_on>
+        <sys_id>1805732107b020103957fe4f7c1ed0a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1761ab3ae6e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-30 19:49:11</sys_updated_on>
+        <type>Connection &amp; Credential Aliases</type>
+        <update_guid>5005732178b02010390e367a27a106a2</update_guid>
+        <update_guid_history>5005732178b02010390e367a27a106a2:738006528</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-30 19:57:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_alias">sys_alias</sys_db_object>
+        <sys_id>cfd826cef4404b54a5ecaa6ac3dced24</sys_id>
+        <sys_metadata>88e4332107b020103957fe4f7c1ed028</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_551155_test_chak.Chak_POC</sys_name>
+        <sys_package display_value="Test_Chak" source="x_551155_test_chak">7b1c5d37072020103957fe4f7c1ed0cf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Test_Chak">7b1c5d37072020103957fe4f7c1ed0cf</sys_scope>
+        <sys_scope_delete display_value="">39b77cd1cb2540bcb1b589095e9158a4</sys_scope_delete>
+        <sys_update_name>sys_alias_88e4332107b020103957fe4f7c1ed028</sys_update_name>
+        <sys_update_version display_value="sys_alias_88e4332107b020103957fe4f7c1ed028">1805732107b020103957fe4f7c1ed0a2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-30 19:57:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

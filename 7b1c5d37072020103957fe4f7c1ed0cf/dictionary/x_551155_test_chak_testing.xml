@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Testing" max_length="40" name="x_551155_test_chak_testing" sizeclass="1" type="collection">
+        <element label="TestingC" max_length="40" name="testingc" type="integer"/>
+    </element>
+</database>

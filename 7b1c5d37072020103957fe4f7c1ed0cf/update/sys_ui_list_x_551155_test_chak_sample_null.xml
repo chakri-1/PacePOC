@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_551155_test_chak_sample" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ecd</element>
+            <list_id display_value="x_551155_test_chak_sample" element="NULL" name="x_551155_test_chak_sample" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dfec553f072020103957fe4f7c1ed0ab</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-24 22:15:22</sys_created_on>
+            <sys_id>5bec553f072020103957fe4f7c1ed0ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-24 22:15:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>taskcode</element>
+            <list_id display_value="x_551155_test_chak_sample" element="NULL" name="x_551155_test_chak_sample" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">dfec553f072020103957fe4f7c1ed0ab</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-24 22:15:22</sys_created_on>
+            <sys_id>53ec553f072020103957fe4f7c1ed0ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-24 22:15:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_551155_test_chak_sample</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-24 22:15:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dfec553f072020103957fe4f7c1ed0ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_551155_test_chak_sample</sys_name>
+            <sys_package display_value="Test_Chak" source="x_551155_test_chak">7b1c5d37072020103957fe4f7c1ed0cf</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test_Chak">7b1c5d37072020103957fe4f7c1ed0cf</sys_scope>
+            <sys_update_name>sys_ui_list_x_551155_test_chak_sample_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-24 22:15:22</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
